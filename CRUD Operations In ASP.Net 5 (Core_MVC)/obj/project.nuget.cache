@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5aP0zq1L0tl4N5AKEdljJGClX0C/Yzpl4zf4JAvsthSa3NRzHuaXeGrdIyesQirzgjV7qk+QeDjU1zkk6YtKcQ==",
+  "dgSpecHash": "69AZfNMP2Gr8j5jCoYMJ6v1jJXoM+DSWmOOAYhCUIS7YzcfxOOOFUJNF4nzO/8kjowyu0cpSMcU9AZov9tDgIg==",
   "success": true,
-  "projectFilePath": "F:\\project .Net\\CRUD Operations\\CRUD Operations In ASP.Net 5 (Core_MVC)\\CRUD Operations In ASP.Net 5 (Core_MVC).csproj",
+  "projectFilePath": "F:\\project .Net\\GitHub Project\\CRUD Operations\\CRUD Operations In ASP.Net 5 (Core_MVC)\\CRUD Operations In ASP.Net 5 (Core_MVC).csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALMASA\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ALMASA\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",

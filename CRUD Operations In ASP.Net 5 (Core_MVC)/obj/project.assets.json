@@ -10442,11 +10442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\project .Net\\CRUD Operations\\CRUD Operations In ASP.Net 5 (Core_MVC)\\CRUD Operations In ASP.Net 5 (Core_MVC).csproj",
+      "projectUniqueName": "F:\\project .Net\\GitHub Project\\CRUD Operations\\CRUD Operations In ASP.Net 5 (Core_MVC)\\CRUD Operations In ASP.Net 5 (Core_MVC).csproj",
       "projectName": "CRUD Operations In ASP.Net 5 (Core_MVC)",
-      "projectPath": "F:\\project .Net\\CRUD Operations\\CRUD Operations In ASP.Net 5 (Core_MVC)\\CRUD Operations In ASP.Net 5 (Core_MVC).csproj",
+      "projectPath": "F:\\project .Net\\GitHub Project\\CRUD Operations\\CRUD Operations In ASP.Net 5 (Core_MVC)\\CRUD Operations In ASP.Net 5 (Core_MVC).csproj",
       "packagesPath": "C:\\Users\\ALMASA\\.nuget\\packages\\",
-      "outputPath": "F:\\project .Net\\CRUD Operations\\CRUD Operations In ASP.Net 5 (Core_MVC)\\obj\\",
+      "outputPath": "F:\\project .Net\\GitHub Project\\CRUD Operations\\CRUD Operations In ASP.Net 5 (Core_MVC)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ALMASA\\AppData\\Roaming\\NuGet\\NuGet.Config",
